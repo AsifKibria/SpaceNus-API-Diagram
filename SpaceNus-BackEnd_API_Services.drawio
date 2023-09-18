@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T06:34:09.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="S5HU5RvNk776hs1ts4oJ" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T09:40:59.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="tMKN45R45MqsIFWGYPiJ" version="21.7.5" type="github">
   <diagram name="Page-1" id="ZSbeu8wCk58w5g4S_x-9">
     <mxGraphModel dx="1386" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="6SPc_UTTP27_pumbtBEv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="6SPc_UTTP27_pumbtBEv-1" target="6SPc_UTTP27_pumbtBEv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6SPc_UTTP27_pumbtBEv-1" value="User Interface" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="6SPc_UTTP27_pumbtBEv-1" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;User Interface&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="200" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6SPc_UTTP27_pumbtBEv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="6SPc_UTTP27_pumbtBEv-2" target="6SPc_UTTP27_pumbtBEv-16">
@@ -16,7 +16,7 @@
         <mxCell id="6SPc_UTTP27_pumbtBEv-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="6SPc_UTTP27_pumbtBEv-2" target="6SPc_UTTP27_pumbtBEv-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6SPc_UTTP27_pumbtBEv-2" value="API Servers&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="6SPc_UTTP27_pumbtBEv-2" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;API Servers&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6SPc_UTTP27_pumbtBEv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="6SPc_UTTP27_pumbtBEv-4" target="6SPc_UTTP27_pumbtBEv-6">
@@ -34,13 +34,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6SPc_UTTP27_pumbtBEv-4" value="AWS Lambdas" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="6SPc_UTTP27_pumbtBEv-4" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;AWS Lambdas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6SPc_UTTP27_pumbtBEv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="6SPc_UTTP27_pumbtBEv-6" target="6SPc_UTTP27_pumbtBEv-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6SPc_UTTP27_pumbtBEv-8" value="S2" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="6SPc_UTTP27_pumbtBEv-8" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;S2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="520" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6SPc_UTTP27_pumbtBEv-12" value="Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -52,7 +52,7 @@
         <mxCell id="6SPc_UTTP27_pumbtBEv-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="6SPc_UTTP27_pumbtBEv-14" target="6SPc_UTTP27_pumbtBEv-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6SPc_UTTP27_pumbtBEv-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Data Warehouse Checks and Return&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="6SPc_UTTP27_pumbtBEv-14" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 10px;&quot;&gt;Data Warehouse &lt;br&gt;checks and Return&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="535" y="180" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6SPc_UTTP27_pumbtBEv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="6SPc_UTTP27_pumbtBEv-16">
@@ -60,8 +60,8 @@
             <mxPoint x="300" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6SPc_UTTP27_pumbtBEv-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1. Laravel MicroService Based&lt;br&gt;2. Hosted on AWS&lt;br&gt;3. Validates all the requests&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="20" width="100" height="100" as="geometry" />
+        <mxCell id="6SPc_UTTP27_pumbtBEv-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;1. Laravel MicroService Based&lt;br&gt;2. Hosted on AWS&lt;br&gt;3. Validates all the requests&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="10" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6SPc_UTTP27_pumbtBEv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="6SPc_UTTP27_pumbtBEv-19">
           <mxGeometry relative="1" as="geometry">
@@ -76,7 +76,7 @@
             <mxPoint x="300" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6SPc_UTTP27_pumbtBEv-19" value="Fusion&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="6SPc_UTTP27_pumbtBEv-19" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Fusion&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="450" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6SPc_UTTP27_pumbtBEv-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="6SPc_UTTP27_pumbtBEv-6">
@@ -88,22 +88,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6SPc_UTTP27_pumbtBEv-6" value="S1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="6SPc_UTTP27_pumbtBEv-6" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;S1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="520" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6SPc_UTTP27_pumbtBEv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="6SPc_UTTP27_pumbtBEv-27" target="6SPc_UTTP27_pumbtBEv-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6SPc_UTTP27_pumbtBEv-27" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Lambda Request Manager&lt;br&gt;Checks, Validate and Process&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="6SPc_UTTP27_pumbtBEv-27" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Lambda Request Manager&lt;br&gt;Checks, Validate and Process&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="335" width="180" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="6SPc_UTTP27_pumbtBEv-30" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. No duplicate request for same data&lt;/span&gt;&lt;/div&gt;2. Check and Store the requests logs&lt;br&gt;3. All Services are comply with IoC (Inversion of Control)/Laravel Service Container&lt;br&gt;4. Use of Redis Cache&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;align=left;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="6SPc_UTTP27_pumbtBEv-30" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;1. No duplicate request for same data&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;2. Check and Store the requests logs&lt;br&gt;3. All Services are comply with IoC (Inversion of Control)/Laravel Service Container&lt;br&gt;4. Use of Redis Cache&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;align=left;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="130" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6SPc_UTTP27_pumbtBEv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="6SPc_UTTP27_pumbtBEv-32" target="6SPc_UTTP27_pumbtBEv-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6SPc_UTTP27_pumbtBEv-32" value="1. User Mgt&lt;br&gt;2. Billing Mgt&lt;br&gt;3. Farm Mgt&lt;br&gt;4. Maps Mgt" style="whiteSpace=wrap;html=1;rounded=1;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="6SPc_UTTP27_pumbtBEv-32" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;1. User Mgt&lt;br&gt;2. Billing Mgt&lt;br&gt;3. Farm Mgt&lt;br&gt;4. Maps Mgt&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
